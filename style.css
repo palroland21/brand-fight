@@ -66,13 +66,14 @@ body {
 }
 
 .votebox {
-    padding: 25px;
+    padding: 5%;
     border: black 3px solid;
-    font-size: 35px;
+    font-size: large;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: 750;
     border-radius: 50px;
-    margin: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
     text-shadow: rgb(0, 255, 21);
     width: 80%;
 }
